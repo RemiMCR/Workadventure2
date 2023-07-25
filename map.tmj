@@ -4046,7 +4046,7 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":3016,
                  "x":-32,
