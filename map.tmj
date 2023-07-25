@@ -4034,6 +4034,23 @@
                  "width":139.5,
                  "x":757.25,
                  "y":629.75
+                }, 
+                {
+                 "height":1768,
+                 "id":54,
+                 "name":"Zone Silence",
+                 "properties":[
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":3016,
+                 "x":-32,
+                 "y":-56
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -4469,7 +4486,7 @@
          "y":0
         }],
  "nextlayerid":151,
- "nextobjectid":54,
+ "nextobjectid":55,
  "orientation":"orthogonal",
  "properties":[
         {
